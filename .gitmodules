@@ -1,0 +1,3 @@
+[submodule "momenter-polymer"]
+	path = momenter-polymer
+	url = git@github.com:jmocana2/momenter-polymer.git

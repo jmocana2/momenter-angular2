@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById	method"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"PADD",
+				"padding-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/www/momenter-angular2"
+	],
+	"file_history":
+	[
+		"/C/www/momenter-polymer/package.json",
+		"/C/www/angular2-polymer-1/index.ts",
+		"/C/www/momenter-news/npm-debug.log",
+		"/C/www/momenter-news/.gitignore",
+		"/C/www/momenter-news/package.json",
+		"/C/www/momenter/package.json",
+		"/C/www/momenter/angular2/package.json",
+		"/C/www/momenter/bower.json",
+		"/C/www/momenter/.gitignore",
+		"/C/www/momenter/.editorconfig",
+		"/C/www/prueba-typescript/index.html",
+		"/C/www/prueba-typescript/js/app.ts",
+		"/C/Users/JoseMaría/Documents/clv/pass.txt",
+		"/C/www/prueba-typescript/js/app.js",
+		"/C/www/polymer-element/app/elements/elements.html",
+		"/C/www/polymer-element/app/styles/shared-styles.html",
+		"/C/www/polymer-element/app/index.html",
+		"/C/www/polymer-element/app/elements/routing.html",
+		"/C/Users/JoseMaría/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/JoseMaría/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/JoseMaría/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/JoseMaría/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/www/polymer-element/app/elements/polymer-elemet/polymer-elemet.html",
+		"/C/www/polymer-element/app/robots.txt",
+		"/C/www/polymer-element/app/manifest.json",
+		"/C/www/polymer-element/app/elements/my-greeting/my-greeting.html",
+		"/C/Users/JoseMaría/Downloads/app-theme.html",
+		"/C/www/polymer-element/.gitignore",
+		"/C/www/polymer-element/app/styles/app-theme.html",
+		"/C/www/polymer-element/bower.json",
+		"/C/www/polymer-element/index.html",
+		"/C/www/polymer-element/hola-polymer.html",
+		"/C/www/vainilla/.gitignore",
+		"/C/www/vainilla/55d3b337277041a3a77fcd29.html",
+		"/C/www/vainilla/55d3b335277041a3a77fcd28.html",
+		"/C/www/workout-graphic/src/ts/index.ts",
+		"/C/www/workout-graphic/src/html/index.html",
+		"/C/www/workout-graphic/package.json",
+		"/C/www/workout-graphic/src/js/systemjs.config.js",
+		"/C/www/workout-graphic/typings.json",
+		"/C/www/workout-graphic/Gulpfile.js",
+		"/C/www/workout-graphic/src/app/app.component.ts",
+		"/C/www/workout-graphic/src/app/main.ts",
+		"/C/www/workout-graphic/dist/js/es6-shim.min.js",
+		"/C/www/workout-graphic/app/app.component.ts",
+		"/C/www/workout-graphic/app/main.ts",
+		"/C/www/workout-graphic/src/js/index.js",
+		"/C/www/workout-graphic/.gitignore",
+		"/C/www/angular2-proyect/src/ts/index.ts",
+		"/C/www/workout-graphic/dist/js/bundle.js",
+		"/C/www/workout-graphic/tsconfig.json",
+		"/C/www/workout-graphic/src/scss/main.scss",
+		"/C/www/workout-graphic/dist/index.html",
+		"/C/www/workout-graphic/dist/css/main.css",
+		"/C/www/workout-graphic/src/index.js",
+		"/C/www/workout-graphic/server.js",
+		"/C/www/workout-graphic/scss/main.scss",
+		"/C/www/workout-graphic/index.html",
+		"/C/www/workout-graphic/dist/js/app.js",
+		"/C/www/workout-graphic/LICENSE",
+		"/C/www/invie-responsive/invie-postcss/src/invie.css",
+		"/C/www/invie-responsive/invie-postcss/gulpfile.js",
+		"/C/www/invie-responsive/invie-postcss/package.json",
+		"/C/Users/JoseMaría/Downloads/Narcos.S01E04.720p.WEBRip.x264-TASTETV[rarbg]/RARBG.com.txt",
+		"/C/www/fanontour/.gitignore",
+		"/C/www/invie-responsive/.gitignore",
+		"/C/www/post-css/invie-responsive/README.md",
+		"/C/www/post-css/invie-responsive/invie-postcss/gulpfile.js",
+		"/C/www/post-css/invie-responsive/invie-postcss/package.json",
+		"/C/www/PostCSS-2016/README.md",
+		"/C/www/jmocana/documentacion/introduccion-diseno-interfaces/archivos/yelp style guide.txt",
+		"/C/Users/JoseMaría/.ssh/github_rsa.pub",
+		"/C/www/server/public/index.html",
+		"/C/www/server/index.html",
+		"/C/www/server/package.json",
+		"/C/www/server/server.js",
+		"/C/www/smoya/smoya/GitHub/nicedevice/static/scss/nicedevice.scss",
+		"/F/pagina web/GitHub/nicedevice/templates/nicedevice.html",
+		"/C/www/smoya/smoya/GitHub/nicedevice/static/scss/nicedevice_main.scss",
+		"/F/pagina web/GitHub/nicedevice/static/css/icomoon/style.css",
+		"/F/pagina web/GitHub/nicedevice/static/css/nicedevice.css",
+		"/C/www/smoya/smoya/GitHub/nicedevice/static/css/nicedevice.css",
+		"/C/Users/JoseMaría/Downloads/prueba-svg/sprite/sprite.css",
+		"/C/Users/JoseMaría/Downloads/prueba-svg/style.css",
+		"/C/www/smoya/smoya/GitHub/Portafolio/templates/portafolio.html",
+		"/C/www/smoya/smoya/GitHub/Portafolio/templates/portafolio.php",
+		"/C/www/smoya/smoya/GitHub/Portafolio/contacto/envio.html",
+		"/C/www/smoya/smoya/GitHub/Portafolio/static/css/portafolio.css",
+		"/C/www/smoya/smoya/GitHub/index.php",
+		"/C/www/smoya/smoya/GitHub/Portafolio/contacto/envio.php",
+		"/C/Users/JoseMaría/Downloads/carruseljs/CircularContentCarousel/index.html",
+		"/C/Users/JoseMaría/Downloads/carruseljs/CircularContentCarousel/css/style.css",
+		"/C/Users/JoseMaría/Downloads/carruseljs/CircularContentCarousel/js/jquery.easing.1.3.js",
+		"/F/pagina web/GitHub/Portafolio/static/css/portafolio.css",
+		"/F/pagina web/GitHub/Portafolio/templates/portafolio.html",
+		"/F/pagina web/GitHub/Portafolio/templates/index.php",
+		"/C/www/smoya/smoya/GitHub/index_old.html",
+		"/C/www/smoya/smoya/GitHub/Portafolio/contacto/class.phpmailer.php",
+		"/F/pagina web/GitHub/Portafolio/templates/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comment",
+			"node_modules",
+			"</script>",
+			"OPEN",
+			"click",
+			"azul",
+			"js",
+			"split"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "momenter-angular2.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 429.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
