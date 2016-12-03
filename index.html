@@ -5,7 +5,18 @@
     <title>Ng2</title>
   </head>
   <body>
-    <ng2-app>Loading...</ng2-app>
+    <main>
+      <ng2-app>Loading...</ng2-app>
+      <section class="map">
+        <h2>My map</h2>
+        <style>
+          google-map {
+            height: 600px;
+          }
+        </style>
+        <google-map latitude="37.77493" longitude="-122.41942"></google-map>
+      </section>
+    </main>
     <script src="jspm_packages/system.js" charset="utf-8"></script>
     <script src="config.js" charset="utf-8"></script>
     <script type="text/javascript">

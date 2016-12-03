@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app/bootstrap.ts",
-  "dependencies": {},
+  "dependencies": {
+    "concurrently": "^3.1.0"
+  },
   "devDependencies": {
     "@angular/common": "2.0.0-rc.1",
     "@angular/compiler": "2.0.0-rc.1",
@@ -36,12 +38,13 @@
     "rxjs": "5.0.0-beta.6",
     "tslint": "3.9.0",
     "typings": "0.8.1",
+    "vulcanize": "^1.14.12",
     "zone.js": "0.6.12"
   },
   "scripts": {
     "test": "npm run compile && ./node_modules/karma/bin/karma start",
     "live": "node ./node_modules/live-server/live-server.js",
-    "pro": "node ./node_modules/gulp/bin/gulp.js clean-dist && ./node_modules/jspm/jspm.js bundle-sfx app dist/bundle.js",
+    "pro": "concurrently \"node ./node_modules/gulp/bin/gulp.js clean-dist\" \"node ./node_modules/jspm/jspm.js bundle-sfx app dist/bundle.js\"",
     "clean": "./node_modules/gulp/bin/gulp.js clean",
     "compile": "./node_modules/gulp/bin/gulp.js compile",
     "compile-w": "./node_modules/gulp/bin/gulp.js compile-w",
@@ -61,6 +64,7 @@
       "@angular/router": "npm:@angular/router@2.0.0-rc.1",
       "es6-promise": "npm:es6-promise@3.1.2",
       "es6-shim": "npm:es6-shim@0.35.0",
+      "html": "github:Hypercubed/systemjs-plugin-html@^0.0.8",
       "reflect-metadata": "npm:reflect-metadata@0.1.2",
       "rxjs": "npm:rxjs@5.0.0-beta.6",
       "zone.js": "npm:zone.js@0.6.12"
